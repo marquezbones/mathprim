@@ -1,0 +1,30 @@
+
+body{
+    background-image:url(fondo-inicio.png) ;
+    background-repeat:no-repeat ;
+background-size: cover ;
+}
+
+.xxxtenta{
+    text-align: center;
+    color: red;
+    font-size: 600px;
+    margin: 0;
+    text-decoration:none;
+    
+}
+.suiente{
+        
+    margin-right: 20px;
+       font-weight: 700;
+    
+    
+    margin-top: 20px;
+       float:right;
+       color: rgb(0, 0, 0);
+       text-decoration: none;
+    font-size: 40px;}
+
+    #fa{
+        text-decoration: none;
+    }

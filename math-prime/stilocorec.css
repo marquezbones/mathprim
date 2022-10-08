@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;}
+    body{
+        background-image:url(fondo-inicio.png) ;
+        background-repeat:no-repeat ;
+    background-size: cover ;
+
+    }
+    #caja23{
+        
+    margin-right: 20px;
+       font-weight: 700;
+    
+    
+    margin-top: 20px;
+       float:right;
+       color: rgb(0, 0, 0);
+       text-decoration: none;
+    font-size: 40px;}
+
+    .x{
+      font-size: 200px;
+      text-align: center;
+    }
+
+
+    img{
+      height: 100px;
+      width: 181;
+      float: left;
+    }
+    .conter-tu{
+   margin-top: 150px;
+      margin-left: 300px;
+    }
+    .conter{
+   margin-top: px;
+      margin-left: 325px;
+    }
+
+    #fol{
+      color: azure;
+      font-size: 40px;
+      float: left;
+      margin-top: 35px;
+
+
+    }
+    #bak{
+      color: azure;
+      font-size: 40px;
+      float: left;
+      margin-top: 35px;
+
+
+    }
+    #bole{
+      color: azure;
+      font-size: 40px;
+      float: left;
+      margin-top: 35px;
+
+
+    }
+
+
+p{
+   color: red;
+   font-size: 40px;
+   text-align: center;
+   margin-top: 60px;
+}
+
+
+
+
+ 
+ .controls {
+   
+   background: #24303c;
+   padding: 10px;
+   border-radius: 4px;
+   
+   border: 1px solid #1f53c5;
+
+   font-size: 18px;
+   color: white;
+   float: left;
+   margin-top: 90px;
+   margin-right: 150px;
+ }
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    /*#fol{
+      
+         display:block;
+         width: 30px;
+        font-weight: 700;
+        background-color:  rgb(8, 183, 196);
+        border-radius: 30px ;
+        padding: 10px 30px;
+        margin-left: 60px;
+        color: #fff;
+        text-decoration: none;
+        margin-top: 100px;
+        border-style:solid ;
+        border-color: #000;
+        
+    }*/

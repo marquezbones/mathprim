@@ -1,0 +1,250 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image:url(Raster.png) ;
+    
+    background-repeat:no-repeat ;
+background-size: cover  ;
+}
+
+#seleccion{
+    color: #fff;
+    font-size: 50px;
+}
+
+.numeros{
+    display: block;
+
+
+}
+.selecc{
+    padding: 0;
+    margin:0px;
+    float: right;
+    margin-top: -1px;
+    font-size: 10px;
+}
+.letra{
+    float: left;
+    padding: 0;
+    margin-left: 20px;
+    color:#00A6FF;
+    font-size: 30px;
+}
+#nuve{
+    display:block;
+    width: 30px;
+   font-weight: 700;
+   background-color:  rgb(1, 150, 30);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 60px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-style:solid ;
+   border-color: #000;
+   
+   
+}
+.nuve{
+    float: left;
+}
+
+#sol{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(1, 150, 30);
+   border-radius: 30px;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-color: #000;
+   border-style:solid ;
+}
+.sol{
+    float: left;
+}
+
+#noche{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(1, 150, 30);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-color: #000;
+   border-style:solid ;
+}
+.noche{
+    float: left;
+}
+
+
+
+/*2*/
+
+.seleccion{
+    color: #fff;
+}
+
+.numeros{
+    display: block;
+
+
+}
+.selecc{
+    padding: 0;
+    margin:0px;
+    float: right;
+    margin-top: -1px;
+    font-size: 10px;
+}
+.letra{
+    float: left;
+    padding: 0;
+    margin-left: 20px;
+    color:#00A6FF;
+    font-size: 30px;
+}
+#tarde{
+    display:block;
+    width: 30px;
+   font-weight: 700;
+   background-color:  rgb(101, 20, 148);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 60px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-style:solid ;
+   border-color: #000;
+   
+   
+}
+.tarde{
+    float: left;
+}
+
+#mañana{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(101, 20, 148);
+   border-radius: 30px;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-color: #000;
+   border-style:solid ;
+}
+.mañana{
+    float: left;
+}
+
+#negro{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(101, 20, 148);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 50px;
+   border-color: #000;
+   border-style:solid ;
+}
+.negro{
+    float: left;
+}
+
+
+
+/*3*/
+.numeros{
+    display: block;
+
+
+}
+.selecc{
+    padding: 0;
+    margin:0px;
+    float: right;
+    margin-top: -1px;
+    font-size: 10px;
+}
+.letra{
+    float: left;
+    padding: 0;
+    margin-left: 20px;
+    color: #00A6FF;
+margin-top: 50px;
+    font-size: 30px;
+}
+#chela{
+    display:block;
+    width: 30px;
+   font-weight: 700;
+   background-color:  rgb(8, 183, 196);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 60px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 100px;
+   border-style:solid ;
+   border-color: #000;
+   
+   
+}
+.chela{
+    float: left;
+}
+
+#trago{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(8, 183, 196);
+   border-radius: 30px;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 100px;
+   border-color: #000;
+   border-style:solid ;
+}
+.trago{
+    float: left;
+}
+
+#ron{
+    display:block;
+    width: 20pxpx;
+   font-weight: 700;
+   background-color:  rgb(8, 183, 196);
+   border-radius: 30px ;
+   padding: 10px 30px;
+   margin-left: 20px;
+   color: #fff;
+   text-decoration: none;
+   margin-top: 100px;
+   border-color: #000;
+   border-style:solid ;
+}
+.ron{
+    float: left;
+}
